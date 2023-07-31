@@ -1,0 +1,16 @@
+{
+    "WebUniUrl":"http://www.webdriveruniversity.com/Contact-Us/contactus.html",
+    "FirstName":"[name='first_name'] ",
+    "FirstNameValue":"Awais",
+    "LastName":"[name='last_name']",
+    "LastNameValue":"Imran",
+    "Email":"[name='email']",
+    "EmailValue":"ai.khan099@gmail.com",
+    "Feedback":"textarea.feedback-input",
+    "FeedbackValue":"Fortunes Favor The Brave",
+    "SubmitBtnXpath":"//div[@id='form_buttons']/input[@type='submit']",
+    "ThanksMsg":"h1",
+    "ThanksMsgValue":"Thank You for your Message!"
+
+
+}
